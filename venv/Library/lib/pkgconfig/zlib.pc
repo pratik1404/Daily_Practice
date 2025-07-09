@@ -1,0 +1,13 @@
+prefix=D:/python/venv/Library
+exec_prefix=D:/python/venv/Library
+libdir=D:/python/venv/Library/lib
+sharedlibdir=D:/python/venv/Library/lib
+includedir=D:/python/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
