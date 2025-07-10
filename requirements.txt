@@ -4,3 +4,6 @@ re
 os
 numpy
 pandas
+lxml
+beautifulsoup4 
+html5lib
