@@ -3,3 +3,4 @@ random
 re
 os
 numpy
+pandas
