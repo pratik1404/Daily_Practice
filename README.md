@@ -23,7 +23,6 @@ Every day, I:
 - Document the day’s learning with code and explanations
 - Push everything here, raw and real
 
-> This is not a polished tutorial — this is the **behind-the-scenes** of becoming job-ready.
 
 ---
 
