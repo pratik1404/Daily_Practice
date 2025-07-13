@@ -50,10 +50,9 @@ Every day, I:
 ## 💼 Tools I Use
 
 - Python 3.10+
-- Jupyter Notebook / Google Colab
-- NumPy, Pandas
-- VS Code, Git, GitHub
-- Soon: Matplotlib, Seaborn, SQL, Power BI
+- Jupyter Notebook / Google Colab 
+- NumPy, Pandas , Matplotlib , Seaborn etc.. 
+- VS Code, Git, GitHub , PyCharm 
 
 ---
 
