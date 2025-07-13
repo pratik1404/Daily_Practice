@@ -9,7 +9,7 @@ I've committed to practicing **Data Analysis with Python** every single day — 
 ## 🚀 Why I Started This Journey
 
 - To **master Python** and its data stack
-- To become **job-ready for analyst roles** offering ₹6 LPA+
+- To become **job-ready for analyst roles** 
 - To build a **real, honest portfolio** of what I’ve actually learned
 - To stay **consistent** and track growth day by day
 
@@ -33,7 +33,9 @@ Every day, I:
 - Functional Programming: `lambda`, `map()`, `filter()`, etc.
 - Data Tools: NumPy and Pandas basics (arrays, Series, DataFrames, missing values)
 - Real-life examples and use cases
-- (Coming soon) Visualization, SQL, Projects, Case Studies
+- Statistiics Part:-
+  * Statisctics basic fundamentals
+  * Descriptive Statistics
 
 ---
 
