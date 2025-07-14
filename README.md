@@ -9,7 +9,7 @@ I've committed to practicing **Data Analysis with Python** every single day — 
 ## 🚀 Why I Started This Journey
 
 - To **master Python** and its data stack
-- To become **job-ready for analyst roles** offering ₹6 LPA+
+- To become **job-ready for analyst roles** 
 - To build a **real, honest portfolio** of what I’ve actually learned
 - To stay **consistent** and track growth day by day
 
@@ -23,7 +23,6 @@ Every day, I:
 - Document the day’s learning with code and explanations
 - Push everything here, raw and real
 
-> This is not a polished tutorial — this is the **behind-the-scenes** of becoming job-ready.
 
 ---
 
@@ -33,7 +32,9 @@ Every day, I:
 - Functional Programming: `lambda`, `map()`, `filter()`, etc.
 - Data Tools: NumPy and Pandas basics (arrays, Series, DataFrames, missing values)
 - Real-life examples and use cases
-- (Coming soon) Visualization, SQL, Projects, Case Studies
+- Statistiics Part:-
+  * Statisctics basic fundamentals
+  * Descriptive Statistics
 
 ---
 
@@ -49,10 +50,9 @@ Every day, I:
 ## 💼 Tools I Use
 
 - Python 3.10+
-- Jupyter Notebook / Google Colab
-- NumPy, Pandas
-- VS Code, Git, GitHub
-- Soon: Matplotlib, Seaborn, SQL, Power BI
+- Jupyter Notebook / Google Colab 
+- NumPy, Pandas , Matplotlib , Seaborn etc.. 
+- VS Code, Git, GitHub , PyCharm 
 
 ---
 
