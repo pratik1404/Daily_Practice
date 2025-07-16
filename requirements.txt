@@ -10,3 +10,4 @@ html5lib
 openlxml
 matplotlib
 seaborn
+scikit-learn
