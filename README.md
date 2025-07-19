@@ -35,7 +35,8 @@ Every day, I:
 - Statistiics Part:-
   * Statisctics basic fundamentals
   * Descriptive Statistics
-
+- Feature Engineering
+- Exploratory Data Analytics  
 ---
 
 ## 📈 My Goals
