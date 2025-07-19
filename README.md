@@ -67,7 +67,7 @@ Every day, I:
 ## 🤝 Let’s Connect
 
 - 🔗 GitHub: [@pratik1404](https://github.com/pratik1404)
-- 🔗 LinkedIn: *https://github.com/pratik1404*
+- 🔗 LinkedIn: *linkedin.com/in/patilpratikmanohar*
 
 ---
 
