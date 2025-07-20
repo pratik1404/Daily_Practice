@@ -35,7 +35,8 @@ Every day, I:
 - Statistiics Part:-
   * Statisctics basic fundamentals
   * Descriptive Statistics
-
+- Feature Engineering
+- Exploratory Data Analytics  
 ---
 
 ## 📈 My Goals
@@ -66,7 +67,7 @@ Every day, I:
 ## 🤝 Let’s Connect
 
 - 🔗 GitHub: [@pratik1404](https://github.com/pratik1404)
-- 🔗 LinkedIn: *https://github.com/pratik1404*
+- 🔗 LinkedIn: [@pratik](https://www.linkedin.com/in/patilpratikmanohar/)
 
 ---
 
