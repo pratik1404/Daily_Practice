@@ -26,7 +26,7 @@ Every day, I:
 
 ---
 
-## 🧠 What I’ve Covered So Far
+## 🧠 What I’ve Covered So far in Python & Statistics
 
 - Core Python: variables, collections, functions, error handling, and more
 - Functional Programming: `lambda`, `map()`, `filter()`, etc.
@@ -36,7 +36,12 @@ Every day, I:
   * Statisctics basic fundamentals
   * Descriptive Statistics
 - Feature Engineering
-- Exploratory Data Analytics  
+- Exploratory Data Analytics
+
+## What I have covered So far in SQL
+- Sql basics
+- Sql functions
+- Advance Sql...
 ---
 
 ## 📈 My Goals
