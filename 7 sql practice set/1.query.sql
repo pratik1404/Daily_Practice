@@ -71,7 +71,7 @@ group by Department
 select max(salary) from Employees
 
 
---9) How do you find the average salary of employees in the 'Finance' department?
+--9) How do you find the average salary of employees in the 'finance' department?
 select avg(salary) from employees 
 where Department in ('finance')
 
