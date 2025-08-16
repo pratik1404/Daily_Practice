@@ -76,5 +76,5 @@ select avg(salary) from employees
 where Department in ('finance')
 
 
---10) How do you select employees whose last name starts with 'M'?
+--10) How do you select employees whose last name starts with 'M'? 
 select * from employees where lastname like 'M%'
